@@ -1,4 +1,5 @@
 LockerGO
+
 LockerGO es una aplicación diseñada para transformar la gestión de lockers universitarios. Ofrece a estudiantes e instituciones una solución moderna, eficiente y accesible para reservar, modificar y administrar lockers desde cualquier dispositivo móvil.
 
 Descripción General
